@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-I editied this for fun to see if it would work and it does!
-=======
-This is a test
->>>>>>> origin/master
+g12herkfjdlf
+Hi, this is Sylvie!
